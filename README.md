@@ -127,3 +127,8 @@ electronize build /target custom win7-x86;win32 /electron-arch ia32
 ```
 
 The end result should be an electron app under your __/bin/desktop__ folder.
+
+## License
+MIT-licensed
+
+Enjoy!
